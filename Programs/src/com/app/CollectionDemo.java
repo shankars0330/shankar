@@ -11,6 +11,9 @@ public class CollectionDemo {
 		map.put(null,null);  
 		map.put(2,null);  
 		System.out.println(map);
+		
 	}
-
+public void m(){
+	System.out.println("say hello");
+}
 }
